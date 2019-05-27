@@ -8,7 +8,7 @@ Deze opdracht is gebaseerd op ['Photo slideshow' van de Google Hashcode 2019 kwa
 Daan gaat graag op (werk-)vakantie en maakt veel vakantiefoto's. Om zijn studenten niet al te veel vervelen wil hij een diashow maken die de aandacht van iedereen er bij kan houden. Gelukkig is Daan heel handig geweest door alle foto's op een relevante manier te taggen.
 
 ## De vakantiefoto's van Daan [makkelijk]
-De dataset is [hier] te downloaden.
+De dataset is [hier](daans_vakantiefotos_easy.txt) te vinden.
 
 ### Wat is een foto?
 
