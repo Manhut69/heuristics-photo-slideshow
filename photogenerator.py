@@ -15,13 +15,12 @@ def pyramid_function(min, max, mean, height):
             pyramid_heights.append(int(slope_up * i + start_up))
         else:
             pyramid_heights.append(int(slope_down * i + start_down))
+    for i in range(1, len(pyramid_heights[1:]) + 1):
+        pyramid_heights[i] = pyramid_heights[i] + pyramid_heights[i - 1]
     return(pyramid_heights)
 
 
 def pyramid_chance(min, max, pyramid_heights):
-    for i in range(1, len(pyramid_heights[1:])):
-        pyramid_heights[i] = pyramid_heights[i] + pyramid_heights[i - 1]
-    print(pyramid_heights)
     position = 0
     pick = random.randint(0, pyramid_heights[-1])
     while pyramid_heights[position] < pick:
@@ -30,13 +29,14 @@ def pyramid_chance(min, max, pyramid_heights):
 
 
 if __name__ == '__main__':
-    num_photos = "False"
+    num_photos = '60'
     while not num_photos.isdigit():
-        num_photos = input("Input number of lines >")
+        num_photos = input("Input number of lines> ")
+    num_photos = int(num_photos)
 
-    filename = ''
+    filename = 'daans_vakantiefotos_easy'
     while not os.path.isfile(f"{filename}.in"):
-        filename = input("Please input the name of the .in file >")
+        filename = input("Please input the name of the .in file> ")
         if not os.path.isfile(f"{filename}.in"):
             print("File not found...")
 
@@ -45,14 +45,12 @@ if __name__ == '__main__':
     percentage_horizontal = int(file[0])
 
     pyramid = file[1].split()
-    print(pyramid)
     min_tags = int(pyramid[0])
     max_tags = int(pyramid[1])
     mean_tags = int(pyramid[2])
     mean_height = int(pyramid[3])
-    pyramid_heights = pyramid_function(min_tags, max_tags, mean_tags, mean_height)
-    print(pyramid_heights)
-    num_tags = min_tags + pyramid_chance(min_tags, max_tags, pyramid_heights)
+    pyramid_heights = pyramid_function(min_tags, max_tags,
+                                       mean_tags, mean_height)
 
     tags = []
     for tag_list in file[2:]:
@@ -61,15 +59,30 @@ if __name__ == '__main__':
     outfile = open(f"{filename}.txt", 'w')
     outfile.write(str(num_photos))
     outfile.write("\n")
-    for i in num_photos:
+
+    for i in range(num_photos):
+        num_tags = min_tags + pyramid_chance(min_tags, max_tags,
+                                             pyramid_heights)
         line = []
         for special_tags in tags[:-1]:
             line.append(random.choice(special_tags))
-        while len(line) < num_tags:
+
+        tries = 0
+        max_tries = 20
+        while len(line) < num_tags and tries < max_tries:
             pick_tag = random.choice(tags[-1])
-            if pick_tag not in tags:
+            if pick_tag not in line:
                 line.append(pick_tag)
-        if percentage_horizontal / 100 < random.random():
-            writeline = " ".join(line)
+                tries = 0
+            else:
+                tries += 1
+        num_tags = len(line)
+        writeline = " ".join(line)
+
+        percentage_horizontal = percentage_horizontal / 100
+        if percentage_horizontal > random.random():
             outfile.write(f"H {num_tags} {writeline}")
-            outfile.write("\n")
+        else:
+            outfile.write(f"V {num_tags} {writeline}")
+
+        outfile.write("\n")

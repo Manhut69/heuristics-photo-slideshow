@@ -1,2 +1,101 @@
-10
-H 0 selfie
+100
+V 4 group clint tag2 tag7
+H 4 selfie clint tag5 tag4
+H 6 group daan tag7 tag6 tag3 tag2
+H 4 group clint tag2 tag5
+H 5 selfie daan tag6 tag7 tag1
+H 7 selfie clint tag5 tag2 tag6 tag1 tag4
+H 2 group daan
+H 5 selfie daan tag1 tag7 tag2
+H 3 group daan tag7
+H 8 selfie daan tag2 tag3 tag1 tag7 tag5 tag4
+H 9 selfie clint tag6 tag3 tag7 tag1 tag5 tag2 tag4
+H 9 selfie daan tag3 tag4 tag1 tag6 tag7 tag5 tag2
+H 3 group clint tag6
+H 4 selfie daan tag6 tag1
+H 6 group clint tag1 tag7 tag3 tag2
+H 4 group daan tag2 tag3
+H 8 selfie clint tag2 tag6 tag7 tag4 tag1 tag3
+H 7 selfie clint tag2 tag6 tag7 tag5 tag3
+H 4 group daan tag7 tag1
+H 7 group daan tag1 tag7 tag2 tag6 tag3
+H 7 group daan tag5 tag3 tag7 tag1 tag6
+H 3 selfie clint tag2
+H 3 group daan tag1
+H 4 selfie daan tag3 tag4
+H 8 selfie daan tag2 tag4 tag3 tag5 tag1 tag6
+H 3 group clint tag5
+H 3 selfie daan tag5
+H 4 selfie daan tag1 tag5
+H 7 selfie daan tag3 tag7 tag1 tag2 tag5
+H 4 selfie clint tag6 tag1
+H 6 group daan tag3 tag6 tag1 tag5
+H 2 selfie daan
+H 4 selfie clint tag7 tag5
+H 2 group clint
+H 3 group daan tag5
+H 6 group clint tag3 tag1 tag7 tag4
+H 6 group clint tag6 tag7 tag1 tag2
+H 8 group clint tag5 tag3 tag7 tag4 tag1 tag2
+H 3 group clint tag5
+H 8 selfie daan tag7 tag2 tag5 tag4 tag1 tag3
+H 3 selfie clint tag4
+H 2 selfie clint
+H 7 group clint tag6 tag7 tag5 tag2 tag1
+H 3 selfie daan tag6
+H 8 selfie daan tag4 tag3 tag1 tag6 tag2 tag7
+H 6 group clint tag5 tag6 tag2 tag3
+H 6 selfie clint tag1 tag5 tag7 tag4
+H 4 selfie daan tag4 tag2
+H 5 group daan tag7 tag4 tag2
+H 7 selfie daan tag5 tag1 tag4 tag7 tag6
+H 5 selfie daan tag4 tag1 tag7
+H 7 selfie clint tag4 tag6 tag2 tag3 tag5
+H 5 selfie daan tag1 tag6 tag3
+H 6 selfie daan tag4 tag3 tag7 tag1
+H 4 selfie clint tag3 tag7
+H 3 selfie daan tag3
+H 5 group daan tag6 tag5 tag7
+H 2 selfie daan
+H 8 selfie clint tag4 tag7 tag2 tag5 tag1 tag6
+H 7 group daan tag3 tag7 tag2 tag1 tag5
+H 3 selfie daan tag5
+H 4 group clint tag3 tag7
+H 7 selfie daan tag2 tag5 tag6 tag1 tag4
+H 4 selfie daan tag7 tag4
+H 8 group daan tag5 tag4 tag6 tag1 tag3 tag7
+H 3 selfie clint tag1
+H 4 selfie daan tag5 tag2
+H 8 group daan tag1 tag7 tag3 tag4 tag5 tag6
+H 3 selfie daan tag2
+H 4 selfie clint tag1 tag2
+H 3 selfie clint tag6
+H 7 group daan tag2 tag6 tag3 tag7 tag1
+H 4 group daan tag4 tag1
+H 3 selfie daan tag4
+H 5 selfie daan tag6 tag3 tag7
+H 6 group clint tag5 tag2 tag3 tag7
+H 5 selfie daan tag5 tag4 tag1
+H 2 selfie daan
+H 4 group clint tag2 tag1
+H 5 group daan tag4 tag5 tag6
+H 4 selfie clint tag6 tag7
+H 6 selfie clint tag6 tag3 tag7 tag1
+H 4 group clint tag4 tag1
+H 4 selfie clint tag5 tag2
+H 7 group clint tag4 tag7 tag6 tag2 tag3
+H 5 selfie daan tag4 tag1 tag6
+H 3 group clint tag4
+H 5 selfie clint tag4 tag5 tag1
+H 3 selfie daan tag6
+H 3 selfie daan tag3
+H 6 selfie daan tag3 tag4 tag7 tag5
+H 4 selfie clint tag4 tag1
+H 4 group daan tag6 tag1
+H 4 selfie clint tag6 tag1
+H 3 selfie clint tag4
+H 5 selfie daan tag1 tag7 tag6
+H 5 selfie clint tag7 tag1 tag6
+H 3 selfie clint tag7
+H 9 selfie daan tag1 tag2 tag6 tag7 tag5 tag4 tag3
+H 5 group clint tag2 tag3 tag6
