@@ -1,61 +1,61 @@
 60
-V 3 selfie japan professor
-V 5 scenic japan trees tourist sports
-V 6 scenic japan sunny tourist heuristics university
-V 3 selfie japan sunny
-V 4 group singapore beer trees
-V 6 selfie japan computer_science beer trees clouds
-V 4 selfie japan sports professor
-V 4 selfie athene clouds sports
-V 5 group japan computer_science professor beer
-V 3 selfie athene university
-V 5 group japan tourist research_group sports
-V 2 group athene
-V 4 group singapore tourist university
-V 3 scenic singapore professor
-V 5 selfie japan professor heuristics university
-V 3 selfie athene research_group
-V 3 group athene sports
-V 3 group japan beer
-V 6 scenic singapore university heuristics clouds beer
-V 5 group japan research_group sports clouds
-V 3 group singapore sports
-V 3 group singapore computer_science
-V 2 scenic athene
-V 2 selfie singapore
-V 3 group japan computer_science
-V 2 scenic athene
-V 2 selfie japan
-V 3 scenic japan research_group
-V 3 scenic japan computer_science
-V 2 scenic singapore
-V 5 scenic singapore clouds sunny professor
-V 3 selfie singapore university
-V 3 group athene sunny
-V 5 selfie singapore sunny computer_science tourist
+V 3 selfie japan funny
+V 6 scenic japan research_group sports trees university
+V 3 group athene university
+V 6 selfie athene trees sports heuristics research_group
 V 3 group athene tourist
-V 4 group japan research_group professor
-V 3 group japan research_group
-V 4 scenic japan computer_science university
-V 3 selfie athene trees
-V 5 selfie singapore trees computer_science sunny
-V 3 group athene professor
-V 4 selfie japan heuristics research_group
-V 5 scenic singapore research_group sunny heuristics
-V 5 group athene university tourist research_group
-V 3 selfie japan beer
-V 3 group athene trees
-V 3 selfie singapore heuristics
-V 3 group athene university
-V 4 group singapore clouds beer
-V 3 group athene university
-V 2 selfie athene
-V 3 selfie athene computer_science
+V 5 group athene clouds professor computer_science
+V 5 scenic japan university sunny heuristics
+V 3 scenic athene sunny
 V 2 scenic japan
-V 4 scenic japan trees computer_science
-V 5 group japan computer_science university tourist
-V 5 selfie japan clouds beer computer_science
-V 3 scenic japan tourist
+V 3 group athene beer
+V 3 selfie singapore research_group
+V 4 selfie athene funny university
+V 3 group japan trees
+V 5 scenic japan clouds funny university
+V 3 selfie japan clouds
 V 3 scenic singapore heuristics
-V 3 selfie japan tourist
+V 6 group japan sunny research_group sports trees
+V 4 scenic singapore sunny computer_science
 V 3 group singapore heuristics
+V 4 group japan tourist sunny
+V 3 selfie athene university
+V 2 group singapore
+V 5 scenic athene university trees professor
+V 4 scenic japan funny professor
+V 2 selfie athene
+V 3 group singapore computer_science
+V 4 group singapore funny heuristics
+V 3 scenic japan professor
+V 4 selfie japan tourist sunny
+V 3 scenic japan tourist
+V 5 selfie athene tourist trees sunny
+V 2 group singapore
+V 5 group singapore funny tourist heuristics
+V 3 group singapore research_group
+V 5 group singapore heuristics tourist sunny
+V 2 group singapore
+V 5 selfie athene clouds trees funny
+V 3 group athene sports
+V 5 group japan professor university beer
+V 3 group athene heuristics
+V 4 scenic singapore trees beer
+V 3 scenic japan clouds
+V 4 group athene heuristics sports
+V 2 selfie singapore
+V 5 scenic singapore clouds beer sports
+V 5 selfie singapore sports computer_science heuristics
+V 5 scenic singapore beer sports sunny
+V 2 selfie japan
+V 4 group singapore university tourist
+V 3 scenic singapore trees
+V 5 group athene computer_science sunny tourist
+V 2 selfie japan
+V 3 scenic athene beer
+V 4 group singapore clouds professor
+V 4 group japan trees computer_science
+V 3 selfie japan heuristics
+V 2 group athene
+V 2 group athene
+V 2 scenic singapore
+V 4 selfie japan clouds professor
