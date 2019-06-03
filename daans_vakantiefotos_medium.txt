@@ -1,0 +1,121 @@
+120
+V 4 japan heuristics sunny trees
+V 2 japan heuristics
+V 8 japan selfie trees group amazing funny dark computer_science
+H 8 singapore dark computer_science laptops funny trees restaurant amazing
+H 4 athene dark scenic sunny
+V 7 japan trees sunny research_group heuristics laptops beer
+H 4 singapore trees scenic research_group
+V 6 singapore university funny sunny trees restaurant
+V 8 athene scenic university selfie heuristics cool computer_science beer
+V 9 athene funny scenic professor trees beer amazing cool laptops
+V 5 singapore group heuristics computer_science restaurant
+V 5 singapore restaurant beer heuristics selfie
+V 6 singapore heuristics university selfie sports dark
+H 2 athene university
+V 6 singapore clouds amazing computer_science trees dark
+V 3 japan group research_group
+V 5 singapore heuristics university research_group computer_science
+V 7 japan professor funny dark group university research_group
+V 7 athene restaurant selfie dark group clouds professor
+V 9 singapore group university computer_science cool laptops sunny trees restaurant
+V 5 athene university clouds laptops funny
+V 2 japan tourist
+V 7 singapore sports professor dark trees laptops scenic
+H 5 singapore computer_science university tourist amazing
+V 6 singapore research_group clouds group cool beer
+V 2 athene trees
+V 7 athene funny selfie amazing restaurant tourist trees
+V 6 japan restaurant beer laptops cool sports
+V 6 athene group scenic amazing heuristics clouds
+V 10 japan funny cool tourist laptops university selfie trees clouds sports
+V 9 athene dark tourist group trees university heuristics funny laptops
+H 7 singapore sports sunny group restaurant tourist dark
+H 6 singapore group university restaurant scenic professor
+H 4 athene research_group laptops clouds
+H 4 japan amazing beer trees
+V 6 japan computer_science laptops sunny group university
+V 6 athene clouds group professor computer_science scenic
+H 7 singapore amazing tourist clouds heuristics research_group laptops
+H 4 singapore restaurant trees tourist
+V 8 japan computer_science scenic sunny trees university heuristics research_group
+V 7 singapore sunny research_group professor dark cool beer
+V 3 athene professor sunny
+V 7 athene clouds amazing cool selfie dark group
+V 5 japan sports sunny laptops cool
+V 5 japan trees heuristics professor computer_science
+V 3 japan beer restaurant
+V 6 athene sunny restaurant cool amazing sports
+V 6 singapore selfie cool research_group sunny sports
+V 6 athene university professor restaurant cool dark
+V 10 athene restaurant group sports computer_science scenic clouds laptops professor selfie
+V 5 japan restaurant group sports laptops
+V 6 singapore dark scenic amazing trees laptops
+V 3 japan university scenic
+V 7 singapore laptops clouds scenic trees beer amazing
+V 6 japan clouds professor heuristics trees selfie
+V 5 singapore laptops scenic tourist sports
+V 2 athene computer_science
+V 6 singapore clouds group restaurant sunny selfie
+V 6 singapore selfie trees group computer_science research_group
+V 7 singapore restaurant trees sunny sports university tourist
+V 5 japan cool heuristics selfie research_group
+V 6 japan sports beer amazing heuristics laptops
+V 7 athene group dark sports scenic trees clouds
+V 7 athene amazing trees heuristics laptops research_group funny
+V 6 singapore trees amazing restaurant sunny computer_science
+V 7 singapore clouds group tourist scenic restaurant heuristics
+V 3 athene group dark
+V 4 japan research_group amazing restaurant
+V 4 japan tourist selfie research_group
+V 9 athene laptops funny clouds selfie sunny scenic restaurant sports
+V 4 athene trees restaurant professor
+V 2 singapore amazing
+V 6 singapore trees laptops amazing clouds university
+V 8 athene heuristics amazing scenic computer_science group professor funny
+V 5 singapore professor restaurant dark trees
+H 9 japan selfie professor restaurant computer_science sports group cool research_group
+V 8 singapore cool trees selfie clouds funny research_group beer
+H 6 athene computer_science university sunny selfie trees
+H 7 singapore trees university computer_science tourist dark beer
+H 8 singapore restaurant professor group laptops beer cool sports
+V 9 japan sports selfie group cool dark restaurant trees research_group
+H 5 singapore university sports scenic tourist
+V 5 singapore funny cool group trees
+H 6 japan professor university trees cool amazing
+V 7 singapore heuristics university sports restaurant funny research_group
+V 4 japan cool sports clouds
+V 5 singapore scenic laptops amazing research_group
+V 5 singapore clouds computer_science dark professor
+V 5 singapore selfie restaurant trees heuristics
+V 6 athene scenic clouds cool research_group tourist
+V 3 athene group heuristics
+V 4 athene university beer dark
+V 2 japan cool
+V 7 singapore university trees dark scenic clouds cool
+V 7 singapore research_group scenic selfie tourist beer group
+H 7 athene beer computer_science amazing trees sunny cool
+V 5 athene tourist sunny funny university
+V 3 athene amazing trees
+V 9 singapore restaurant cool funny tourist group sports university computer_science
+H 6 singapore scenic group tourist funny restaurant
+V 9 japan group research_group restaurant computer_science laptops heuristics sunny trees
+V 10 japan selfie dark laptops clouds funny restaurant group research_group cool
+H 7 japan professor laptops scenic tourist sunny selfie
+V 9 athene tourist group amazing laptops selfie computer_science professor scenic
+V 4 athene restaurant trees laptops
+H 4 singapore beer university group
+V 5 singapore funny cool clouds sunny
+V 4 japan sports beer funny
+V 6 japan selfie university trees laptops scenic
+V 3 singapore dark research_group
+V 5 athene professor computer_science research_group heuristics
+V 4 japan funny group sunny
+V 4 athene cool clouds restaurant
+V 4 athene dark trees sunny
+V 5 athene funny computer_science laptops amazing
+V 2 athene heuristics
+V 7 singapore sports cool scenic professor research_group clouds
+V 5 athene laptops restaurant trees heuristics
+V 8 athene tourist restaurant professor funny heuristics group trees
+V 6 athene sports university funny restaurant laptops

@@ -29,12 +29,12 @@ def pyramid_chance(min, max, pyramid_heights):
 
 
 if __name__ == '__main__':
-    num_photos = '60'
+    num_photos = '120'
     while not num_photos.isdigit():
         num_photos = input("Input number of lines> ")
     num_photos = int(num_photos)
 
-    filename = 'daans_vakantiefotos_easy'
+    filename = 'daans_vakantiefotos_medium'
     while not os.path.isfile(f"{filename}.in"):
         filename = input("Please input the name of the .in file> ")
         if not os.path.isfile(f"{filename}.in"):
@@ -59,6 +59,7 @@ if __name__ == '__main__':
     outfile = open(f"{filename}.txt", 'w')
     outfile.write(str(num_photos))
     outfile.write("\n")
+    percentage_horizontal = percentage_horizontal / 100
 
     for i in range(num_photos):
         num_tags = min_tags + pyramid_chance(min_tags, max_tags,
@@ -79,10 +80,16 @@ if __name__ == '__main__':
         num_tags = len(line)
         writeline = " ".join(line)
 
-        percentage_horizontal = percentage_horizontal / 100
-        if percentage_horizontal > random.random():
+        random_num = random.random()
+        print(f"{percentage_horizontal} > {random_num}", end=" ")
+        horizontal_true = (percentage_horizontal > random.random())
+
+        print(horizontal_true, end=" ")
+        if horizontal_true:
             outfile.write(f"H {num_tags} {writeline}")
+            print("H")
         else:
             outfile.write(f"V {num_tags} {writeline}")
+            print("V")
 
         outfile.write("\n")
