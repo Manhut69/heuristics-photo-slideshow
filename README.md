@@ -22,7 +22,7 @@ De tags zijn in lowercase unicode, a t/m z en onderstreepjes. Ze worden gescheid
 ## Hieronder staan enigzins gefundeerde meningen
 
 #### Dingen die koel zijn aan deze opdracht
-Er zijn 2 manieren om deze opdracht op te lossen: De straightforward manier, met een algoritme om de verschillende combinaties te heuristieken, of een queue oplossing, waarbij het prograama bepaalt of hij de slide voor of na de huidige slideshow zet.
+Er zijn 2 manieren om deze opdracht op te lossen: De straightforward manier, met een algoritme om de verschillende combinaties te heuristieken, of een queue oplossing, waarbij het programma bepaalt of hij de slide voor of na de huidige slideshow zet.
 
 #### Eventuele problemen
 Pruning: Weinig. Een manier van pruning is om de overlap aan tags alvast te evalueren en als er een overlap is van meer dan 80% dan zal dit waarschijnlijk een suboptimale oplossing zijn.
