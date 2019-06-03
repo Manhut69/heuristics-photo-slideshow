@@ -5,7 +5,7 @@ de vakomschrijving is te vinden op [heuristieken.nl](heuristieken.nl)
 ### Photo slideshow
 De opdracht is gebaseerd op photo slideshow, de opdracht voor de qualifier round van Google Hash code 2019.
 
-Het is (voor zover ik dit soort problemen snap) een NP compleet probleem. Elke toegevoegde slide maakt de tijd voor het uitrekenen minstens met een factor n+1 groter, waarbij n het aantal fotos is. Kortom: Het aantal mogelijkheden als er n verticale slides zijn is n!. Hier komt nog een bepaalde exponent bij als horizontale slides worden meegerekend. (Staat hier niet voor het geval dit ooit een echte opdracht wordt ;))
+Het is (voor zover ik dit soort problemen snap) een NP compleet probleem. Elke toegevoegde slide maakt de tijd voor het uitrekenen minstens met een factor n+1 groter, waarbij n het aantal slides is. Kortom: Het aantal mogelijkheden als er n verticale slides zijn is n!. Hier komt nog een bepaalde exponent bij als horizontale slides worden meegerekend. (Staat hier niet voor het geval dit ooit een echte opdracht wordt ;))
 
 ### generator functie
 Voor het makkelijk maken van problem sets en het maken van makkeljke problem sets heb ik een kort pythonscriptje geschreven om deze te genereren. Bij het opstarten vraagt het om de hoeveelheid regels en het .in bestand
